@@ -119,7 +119,7 @@ module "lambda_get_course" {
   handler       = "index.handler"
   runtime       = "nodejs16.x"
 
-  source_path = "${path.module}/src/get-all-courses"
+  source_path = "${path.module}/src/get-course"
 
   environment_variables = {
     TABLE_NAME = var.courses_table
