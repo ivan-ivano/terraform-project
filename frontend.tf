@@ -55,7 +55,6 @@ module "cdn" {
     cached_methods  = ["GET", "HEAD"]
     compress        = true
     query_string    = true
-    cache_policy_id = "658327ea-f89d-4fab-a63d-7e88639e58f6"
   }
 
 

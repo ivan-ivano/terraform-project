@@ -1,0 +1,1 @@
+{"filename": "builds/e08429c1d4a2b6e36de5ad20fd0bf91e71d9d04d52cb2fb71b9a404cda0485e5.zip", "runtime": "python3.11", "artifacts_dir": "builds", "build_plan": [["zip", ".terraform/modules/notify_slack_use1/functions/notify_slack.py", null]]}
